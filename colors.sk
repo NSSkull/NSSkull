@@ -1,0 +1,18 @@
+# If you need support please message me.
+# Discord: NS_Skull
+
+command /colors:
+    trigger:
+        send "&aColors" to player
+        send "§00 §11 §22 §33" to player
+        send "§44 §55 §66 §77" to player
+        send "§88 §99 §aa §bb" to player
+        send "§cc §dd §ee §ff" to player
+        send " " to player
+        send "§rk §kMinecraft" to player
+        send "§rl §lMinecraft" to player
+        send "§rm §mMinecraft" to player
+        send "§rn §nMinecraft" to player
+        send "§ro §oMinecraft" to player
+        send "§rr §rMinecraft" to player
+        send " " to player
