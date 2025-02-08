@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NS_Skull
 - 👀 I’m interested in Minecraft Development.
-- 🌱 I’m currently learning Skript
+- 🌱 I’m currently learning Skript, Javascript. Python, and HTML.
 - 💞️ I’m looking to collaborate on Minecraft Server Development.
 - 📫 How to reach me nsskulldevs@outlook.com
 - 😄 Pronouns: he/him
