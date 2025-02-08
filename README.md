@@ -1,7 +1,7 @@
 - 👋 Hi, I’m NS_Skull
 - 👀 I’m interested in Minecraft Development.
 - 🌱 I’m currently learning Skript, Javascript. Python, and HTML.
-- 💞️ I’m looking to collaborate on Minecraft Server Development.
+- 💞️ I’m looking to collaborate on projects like JS or DC Bots
 - 📫 How to reach me nsskulldevs@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like music mainly Juice WRLD.
