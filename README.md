@@ -1,27 +1,22 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey, I'm Skull 👋</h1>
 <p align="center">
-  <b>JavaScript Developer • Node.js Enthusiast • Full-Stack Creator</b>
+  🧑‍💻 14 y/o Full-Stack & Bot Developer • Server Staff • Always Learning
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00C0FF&center=true&vCenter=true&width=500&lines=JavaScript+%2F+Node.js+Developer;Discord+Bots+%26+APIs;Minecraft+Hosting+%2F+Server+Tools;Learning+Fast+%7C+Building+Faster" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 💡 About Me
 
-- 🔭 I’m currently working on **cool JavaScript projects**
-- 🌱 I’m learning **Next.js, Docker, and system design**
-- 💡 I love building **tools, bots, and automation**
-- 💬 Ask me about **Node.js, APIs, Discord bots, and servers**
-- ⚡ Fun fact: I probably script everything I do 😎
-
----
-
-## 🛠️ Tech Stack
-
-```js
-const techStack = {
-  language: ["JavaScript", "TypeScript", "Python"],
-  backend: ["Node.js", "Express", "Bun"],
-  frontend: ["Next.js", "TailwindCSS", "HTML/CSS"],
-  database: ["MariaDB", "MongoDB", "Prisma"],
-  tools: ["Git", "Docker", "VS Code", "Linux"]
+```ts
+const me = {
+  name: "[Your Name]",
+  age: 14,
+  location: "🌍 Internet-native",
+  roles: ["Developer", "Bot Creator", "Server Staff"],
+  stack: ["Node.js", "JavaScript", "MariaDB", "Express", "Next.js"],
+  hobbies: ["Minecraft servers", "Coding bots", "Building tools"],
 };
