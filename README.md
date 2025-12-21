@@ -58,7 +58,7 @@
 ---
 
 ## 📫 Contact
-- 💬 Discord: `nsskull`
+- 💬 Discord: `ns_skull`
 - 🌐 GitHub: [github.com/NSSkull](https://github.com/NSSkull)
 
 ---
