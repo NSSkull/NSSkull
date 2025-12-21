@@ -20,8 +20,7 @@
 ---
 
 ## 🚀 Current Projects
-- 🟣 **VeilMC** — survival / network development  
-- 🍩 **Donut SMP** tooling & automation  
+- 🟣 **VeilMC** — survival / network development   
 - 🌐 Web projects & portfolio work  
 - 🤖 Discord bots & services
 
@@ -59,7 +58,7 @@
 ---
 
 ## 📫 Contact
-- 💬 Discord: `yourname`
+- 💬 Discord: `nsskull`
 - 🌐 GitHub: [github.com/NSSkull](https://github.com/NSSkull)
 
 ---
