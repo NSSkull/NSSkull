@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 Current Projects
-- 🟣 **Indigo** — Pterodactyl fork
+- 🟣 **Indigo** — Game Hosting Platform (Open-Source) 
 ---
 
 ## 🛠️ Tech Stack
