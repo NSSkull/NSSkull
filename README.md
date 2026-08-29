@@ -20,10 +20,7 @@
 ---
 
 ## 🚀 Current Projects
-- 🟣 **VeilMC** — survival / network development   
-- 🌐 Web projects & portfolio work  
-- 🤖 Discord bots & services
-
+- 🟣 **Indigo** — Pterodactyl fork
 ---
 
 ## 🛠️ Tech Stack
